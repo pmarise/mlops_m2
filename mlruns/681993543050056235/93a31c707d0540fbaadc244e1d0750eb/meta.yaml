@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/mlops_assignment/mlops_m2/mlruns/681993543050056235/93a31c707d0540fbaadc244e1d0750eb/artifacts
+end_time: 1737626116798
+entry_point_name: ''
+experiment_id: '681993543050056235'
+lifecycle_stage: active
+run_id: 93a31c707d0540fbaadc244e1d0750eb
+run_name: unleashed-fly-267
+run_uuid: 93a31c707d0540fbaadc244e1d0750eb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737626106911
+status: 3
+tags: []
+user_id: pmarise

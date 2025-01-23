@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/mlops_assignment/mlops_m2/mlruns/681993543050056235/e3f3f0e8629e43288f8d362b1c004c35/artifacts
+end_time: 1737626123914
+entry_point_name: ''
+experiment_id: '681993543050056235'
+lifecycle_stage: active
+run_id: e3f3f0e8629e43288f8d362b1c004c35
+run_name: glamorous-flea-56
+run_uuid: e3f3f0e8629e43288f8d362b1c004c35
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737626116815
+status: 3
+tags: []
+user_id: pmarise

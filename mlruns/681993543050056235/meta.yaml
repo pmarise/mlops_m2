@@ -1,0 +1,6 @@
+artifact_location: file:///C:/mlops_assignment/mlops_m2/mlruns/681993543050056235
+creation_time: 1737626103947
+experiment_id: '681993543050056235'
+last_update_time: 1737626103947
+lifecycle_stage: active
+name: Random Forest on Iris dataset
